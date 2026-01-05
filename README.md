@@ -1,5 +1,7 @@
 # Travel Metrics - Personal Travel Tracking App
 
+**App Link**: https://been-app-exchange-7szm.vercel.app/
+
 A web app model of Been (a mobile app) built with React and Vite to visualize places you've been. 
 
 I really just wanted to build a web version of this and put a spin on the user experience from my own experiences with the very popular mobile app. I also wanted to experiment with adding regions and cities :) I've spent a lot of time trying to build out the current UI and adding visits, cities, and regions in chronological order and in trying to make this as intuitive but also fun + cool as possible! 
